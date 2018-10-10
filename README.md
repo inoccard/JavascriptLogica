@@ -1,2 +1,2 @@
 # JavascriptLogica
-Exercícios de lógica de programação com JavaScript
+Exercícios de lógica de programação com JavaScript.
